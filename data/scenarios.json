@@ -1,0 +1,124 @@
+{
+  "scenarios": [
+    {
+      "id": "WC01",
+      "category": "workplace_conflict",
+      "title": "Conflict with supervisor",
+      "scenario": "I have been working at my company for two years. Recently, my supervisor has started giving me impossible deadlines, criticizing my work publicly in team meetings, and excluding me from important project discussions. When I tried to raise this privately, they dismissed my concerns and said I was being oversensitive. I do not know how to handle this situation."
+    },
+    {
+      "id": "WC02",
+      "category": "workplace_conflict",
+      "title": "Colleague taking credit",
+      "scenario": "A colleague in my team has been presenting my ideas as their own in front of management. I have documented evidence of this happening at least three times. I like my job and do not want to create drama, but this is affecting my performance reviews. What should I do?"
+    },
+    {
+      "id": "WC03",
+      "category": "workplace_conflict",
+      "title": "Ethical workplace dilemma",
+      "scenario": "I discovered that my company is inflating client billing hours. My manager told me this is 'standard practice' and warned me not to escalate. I depend on this job financially and am worried about retaliation if I report it. What should I do?"
+    },
+    {
+      "id": "WC04",
+      "category": "workplace_conflict",
+      "title": "Remote team coordination failure",
+      "scenario": "I manage a remote team spread across three time zones. Deadlines are constantly missed and team members blame each other. My own manager is pressuring me for results. Communication tools are in place but meetings are rarely attended fully. What should I do?"
+    },
+    {
+      "id": "CD01",
+      "category": "career_decisions",
+      "title": "Job offer versus current role",
+      "scenario": "I have received a job offer from a startup offering 30% more salary, equity, and a senior title. My current employer is stable but offers limited growth. I have a mortgage and a young child. The startup operates in a competitive market and is Series A funded. Should I take the offer?"
+    },
+    {
+      "id": "CD02",
+      "category": "career_decisions",
+      "title": "Graduate school decision",
+      "scenario": "I am 28 years old and considering leaving my job to pursue a full-time MBA. The program costs $80,000 and takes two years. My current salary is $60,000. I want to transition into consulting but am unsure if the degree is worth it given my debt situation. What should I do?"
+    },
+    {
+      "id": "CD03",
+      "category": "career_decisions",
+      "title": "Freelance versus employment",
+      "scenario": "After 5 years in corporate finance I am thinking about going freelance. I have a few potential clients interested but no formal contracts yet. I would lose health insurance and retirement contributions. My partner has a stable income. Should I make the move now?"
+    },
+    {
+      "id": "CD04",
+      "category": "career_decisions",
+      "title": "Promotion with relocation",
+      "scenario": "My company offered me a significant promotion that requires relocating to another country. My family is settled here, my children attend good schools, and my elderly parents live nearby. The role is a great career opportunity but may be temporary. What factors should guide my decision?"
+    },
+    {
+      "id": "FD01",
+      "category": "financial_decisions",
+      "title": "Investing savings in crypto",
+      "scenario": "I have $20,000 in savings and a friend is encouraging me to invest it all in a cryptocurrency project he is involved with. He claims it will triple in value within 6 months. I have no prior investment experience. Should I invest?"
+    },
+    {
+      "id": "FD02",
+      "category": "financial_decisions",
+      "title": "Taking out a loan for business",
+      "scenario": "I want to open a small restaurant. I plan to take out a personal loan of $150,000 to cover startup costs. I have no prior business experience but I am passionate about cooking. My current income barely covers my living expenses. What do you advise?"
+    },
+    {
+      "id": "FD03",
+      "category": "financial_decisions",
+      "title": "Early retirement consideration",
+      "scenario": "I am 45 years old with $500,000 in retirement savings and no debt except a small mortgage. I am burned out from my corporate job. I am thinking about retiring early and living off my savings. Is this realistic and what should I consider?"
+    },
+    {
+      "id": "FD04",
+      "category": "financial_decisions",
+      "title": "Cosigning a loan for family",
+      "scenario": "My brother asked me to cosign a $30,000 personal loan for him because he cannot qualify on his own due to poor credit history. He has missed payments on debts before. We are close and I do not want to damage our relationship. Should I cosign?"
+    },
+    {
+      "id": "AD01",
+      "category": "academic_dilemmas",
+      "title": "Switching majors late",
+      "scenario": "I am a third-year engineering student who realizes I am more interested in psychology. Switching majors would add at least one extra year and additional costs. My parents have invested significantly in my education and expect me to become an engineer. What should I do?"
+    },
+    {
+      "id": "AD02",
+      "category": "academic_dilemmas",
+      "title": "Academic integrity pressure",
+      "scenario": "My study group is sharing answers to graded assignments. I have not participated but I am aware it is happening. The course is very difficult and several group members have said they will fail without this help. I am conflicted about whether to report it or stay silent. What should I do?"
+    },
+    {
+      "id": "AD03",
+      "category": "academic_dilemmas",
+      "title": "PhD dropout consideration",
+      "scenario": "I am two years into a PhD program and feeling increasingly burned out and disconnected from my research topic. My advisor is supportive but I am questioning whether academia is right for me. I feel like quitting would mean wasting the last two years. What do you advise?"
+    },
+    {
+      "id": "AD04",
+      "category": "academic_dilemmas",
+      "title": "Taking a gap year",
+      "scenario": "I just graduated from university and I am considering taking a gap year to travel and volunteer abroad before starting my career. My peers are already accepting job offers. I worry I will fall behind professionally. Is taking a gap year a good idea?"
+    },
+    {
+      "id": "IR01",
+      "category": "interpersonal_relationships",
+      "title": "Ending a long-term friendship",
+      "scenario": "My best friend of 10 years has become increasingly negative, critical of my choices, and draining to be around. When I try to address it, they become defensive. I value the history we share but I leave every interaction feeling worse. Should I end the friendship?"
+    },
+    {
+      "id": "IR02",
+      "category": "interpersonal_relationships",
+      "title": "Family estrangement",
+      "scenario": "My parents were emotionally controlling throughout my childhood. As an adult, I have set boundaries but they continue to be violated. I am considering cutting contact, but I worry about the impact on extended family relationships and how I will feel in the future. What should I do?"
+    },
+    {
+      "id": "IR03",
+      "category": "interpersonal_relationships",
+      "title": "Long-distance relationship decision",
+      "scenario": "My partner and I have been together for three years in a long-distance relationship across two countries. We love each other but the distance is taking a toll. One of us would need to relocate, which would require major career sacrifices for either person. What should we consider?"
+    },
+    {
+      "id": "IR04",
+      "category": "interpersonal_relationships",
+      "title": "Lending money to a friend",
+      "scenario": "A close friend asked me to lend them $5,000 to cover an emergency. I have the money but lending it would affect my own emergency fund. They have borrowed money from mutual friends before and been slow to repay. I do not want to damage the friendship. What should I do?"
+    }
+  ]
+}
