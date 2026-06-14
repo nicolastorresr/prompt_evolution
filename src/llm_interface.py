@@ -18,14 +18,10 @@ logger = logging.getLogger(__name__)
 # Supported OpenRouter model aliases
 # ---------------------------------------------------------------------------
 OPENROUTER_MODELS = {
-    "gpt4o-mini":        "openai/gpt-4o-mini",
+    "gemini-flash":      "google/gemini-2.5-flash",
     "gpt4o":             "openai/gpt-4o",
-    "claude-haiku":      "anthropic/claude-haiku-4-5",
     "claude-sonnet":     "anthropic/claude-sonnet-4-5",
-    "llama3-8b":         "meta-llama/llama-3-8b-instruct",
-    "llama3-70b":        "meta-llama/llama-3-70b-instruct",
-    "mistral-7b":        "mistralai/mistral-7b-instruct",
-    "gemini-flash":      "google/gemini-flash-2.5",
+    "llama3.3-70b":      "meta-llama/llama-3.3-70b-instruct"
 }
 
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1/chat/completions"
@@ -58,7 +54,7 @@ class LLMInterface:
 
     def __init__(
         self,
-        model: str = "gpt4o-mini",
+        model: str = "gpt4o",
         api_key: Optional[str] = None,
         temperature: float = 0.7,
         max_tokens: int = 1024,
