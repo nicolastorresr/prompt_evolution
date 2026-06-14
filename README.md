@@ -87,8 +87,8 @@ python run_experiment.py \
     --tournament-size 3 \
     --n-elite 1 \
     --seed 42 \
-    --advice-model gpt4o-mini \
-    --judge-model gpt4o-mini
+    --advice-model gpt4o \
+    --judge-model gpt4o
 ```
 
 ### Larger exploratory run
@@ -101,7 +101,7 @@ python run_experiment.py \
     --crossover-rate 0.7 \
     --seed 0 \
     --advice-model claude-haiku \
-    --judge-model gpt4o-mini
+    --judge-model gpt4o
 ```
 
 ---
@@ -117,8 +117,8 @@ python run_experiment.py \
 | `--tournament-size` | 3 | Competitors per tournament selection round |
 | `--n-elite` | 1 | Elite individuals carried over unchanged |
 | `--seed` | 42 | Global random seed |
-| `--advice-model` | `gpt4o-mini` | Model alias for advice generation |
-| `--judge-model` | `gpt4o-mini` | Model alias for fitness evaluation |
+| `--advice-model` | `gpt4o` | Model alias for advice generation |
+| `--judge-model` | `gpt4o` | Model alias for fitness evaluation |
 | `--temperature` | 0.7 | Sampling temperature for advice LLM |
 | `--scenarios-subset` | None | Use only first N scenarios (None = all 20) |
 | `--results-dir` | auto | Output directory (default: `results/run_<timestamp>_seed<N>`) |
@@ -194,8 +194,8 @@ python run_experiment.py \
     --tournament-size 3 \
     --n-elite 1 \
     --seed 42 \
-    --advice-model gpt4o-mini \
-    --judge-model gpt4o-mini
+    --advice-model gpt4o \
+    --judge-model gpt4o
 ```
 
 ---
