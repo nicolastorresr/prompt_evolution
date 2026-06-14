@@ -231,22 +231,6 @@ Replace `single_point_crossover` in `run_experiment.py` with `uniform_crossover`
 
 ---
 
-## Citation
-
-If you use this framework, please cite:
-
-```bibtex
-@inproceedings{torres2025promptevolution,
-  title     = {Nature-Inspired Prompt Evolution for Improving Reasoning Completeness
-               in Large Language Models},
-  author    = {Torres, Nicolas},
-  booktitle = {Proceedings of the IEEE ...},
-  year      = {2025},
-}
-```
-
----
-
 ## License
 
 MIT License. See `LICENSE` for details.
