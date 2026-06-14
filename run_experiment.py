@@ -19,8 +19,8 @@ Examples
         --mutation-rate 0.4 \\
         --crossover-rate 0.7 \\
         --seed 42 \\
-        --advice-model gpt4o-mini \\
-        --judge-model gpt4o-mini \\
+        --advice-model gpt4o \\
+        --judge-model gpt4o \\
         --scenarios-subset 10
 
     # Use a specific subset of scenarios (faster for debugging)
