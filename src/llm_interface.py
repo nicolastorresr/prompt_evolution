@@ -25,7 +25,7 @@ OPENROUTER_MODELS = {
     "llama3-8b":         "meta-llama/llama-3-8b-instruct",
     "llama3-70b":        "meta-llama/llama-3-70b-instruct",
     "mistral-7b":        "mistralai/mistral-7b-instruct",
-    "gemini-flash":      "google/gemini-flash-1.5",
+    "gemini-flash":      "google/gemini-flash-2.5",
 }
 
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1/chat/completions"
