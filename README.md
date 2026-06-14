@@ -124,19 +124,6 @@ python run_experiment.py \
 | `--results-dir` | auto | Output directory (default: `results/run_<timestamp>_seed<N>`) |
 | `--api-key` | env var | OpenRouter API key |
 
-### Supported model aliases
-
-| Alias | OpenRouter model string |
-|---|---|
-| `gpt4o-mini` | `openai/gpt-4o-mini` |
-| `gpt4o` | `openai/gpt-4o` |
-| `claude-haiku` | `anthropic/claude-haiku-4-5` |
-| `claude-sonnet` | `anthropic/claude-sonnet-4-5` |
-| `llama3-8b` | `meta-llama/llama-3-8b-instruct` |
-| `llama3-70b` | `meta-llama/llama-3-70b-instruct` |
-| `mistral-7b` | `mistralai/mistral-7b-instruct` |
-| `gemini-flash` | `google/gemini-flash-1.5` |
-
 ---
 
 ## Output Files
