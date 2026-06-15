@@ -24,7 +24,7 @@ OPENROUTER_MODELS = {
     "llama3.3-70b":      "meta-llama/llama-3.3-70b-instruct"
 }
 
-OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1/"
+OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 
 class LLMInterface:
