@@ -93,10 +93,10 @@ def build_parser() -> argparse.ArgumentParser:
                         help="Number of elite individuals preserved each generation.")
     parser.add_argument("--seed",             type=int,   default=42,
                         help="Random seed for reproducibility.")
-    parser.add_argument("--advice-model",     type=str,   default="gpt4o-mini",
+    parser.add_argument("--advice-model",     type=str,   default="gpt4o",
                         choices=list(OPENROUTER_MODELS.keys()),
                         help="OpenRouter model alias for advice generation.")
-    parser.add_argument("--judge-model",      type=str,   default="gpt4o-mini",
+    parser.add_argument("--judge-model",      type=str,   default="gpt4o",
                         choices=list(OPENROUTER_MODELS.keys()),
                         help="OpenRouter model alias for fitness evaluation.")
     parser.add_argument("--temperature",      type=float, default=0.7,
