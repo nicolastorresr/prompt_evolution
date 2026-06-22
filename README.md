@@ -1,6 +1,6 @@
 # Nature-Inspired Prompt Evolution Framework
 
-Evolutionary prompt optimisation framework for reducing reasoning blind spots in LLM-generated advice. Accompanies the IEEE conference paper *"Nature-Inspired Prompt Evolution for Improving Reasoning Completeness in Large Language Models"*.
+Evolutionary prompt optimisation framework for reducing reasoning blind spots in LLM-generated advice. 
 
 ---
 
